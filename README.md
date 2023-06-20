@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ I'm an embedded fresher 
+- ✍ I'm an embedded software fresher 
 <br />
 
 ## 📫 How to reach me:
