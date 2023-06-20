@@ -1,4 +1,4 @@
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+<img align="left" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <h1 align="center">Hi 👋, I'm Ngoc Tu</h1>
 <p align="center">
   <h3 align="center">An Embedded Engineer from Vietnam 🇻🇳 </h3>
@@ -33,7 +33,8 @@
   <img src="https://img.icons8.com/color/48/000000/arduino.png"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="opencv" width="58" height="48"/> 
+  <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 </p>
 
@@ -47,7 +48,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://github.com/tunguyendeleter/gif/blob/main/Angry%20Cat%20Typing.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
