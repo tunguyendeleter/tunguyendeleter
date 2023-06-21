@@ -48,7 +48,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://github.com/tunguyendeleter/gif/blob/main/Angry%20Cat%20Typing.gif" alt="dev" width="100%"/>
+        <img src="https://github.com/tunguyendeleter/gif/blob/main/33LA.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
