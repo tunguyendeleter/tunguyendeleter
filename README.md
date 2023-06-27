@@ -30,6 +30,7 @@
   <img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.st.STM32CubeIDE.png" alt="opencv" width="48" height="48"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="opencv" width="58" height="48"/> 
   <img src="https://img.icons8.com/color/48/000000/arduino.png"/>
+  <img src="https://w7.pngwing.com/pngs/736/205/png-transparent-the-qt-company-qt-creator-visual-designer-miscellaneous-text-rectangle.png" alt="PYQT" width="58" height="48/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="opencv" width="58" height="48"/> 
