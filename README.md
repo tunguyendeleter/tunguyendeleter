@@ -1,11 +1,10 @@
 <img align="left" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <h1 align="center">Hi 👋, I'm Ngoc Tu</h1>
 <p align="center">
-  <h3 align="center">An Embedded Engineer from Vietnam 🇻🇳 </h3>
+  <h3 align="center">An Embedded Engineer 🇻🇳 </h3>
 </p>
 
 
-- ✍ I'm an embedded software fresher 
 <br />
 
 ## 📫 How to reach me:
